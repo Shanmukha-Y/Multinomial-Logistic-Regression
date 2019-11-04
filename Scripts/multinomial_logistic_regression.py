@@ -9,7 +9,7 @@ import plotly.plotly as py
 from plotly.graph_objs import *
 
 # Dataset Path
-INPUT_PATH = "/glass.txt"
+INPUT_PATH = "../Inputs/glass.txt"
 
 
 def scatter_with_color_dimension_graph(feature, target, layout_labels):
